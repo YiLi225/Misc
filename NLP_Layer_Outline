@@ -1,0 +1,15 @@
+Python snippets for Your Next NLP Projects
+
+This project will use the WikiText data from Layer.ai as sample texts and present various useful Python snippets for text mining and NLP projects. 
+
+1.	Spell checker with the {spellchecker} library
+2.	Fuzzy string matching with the {fuzzywuzzy} library 
+3.	Simple metrics about text data with the {textstat} library
+4.	Generate a world cloud
+5.	Semantic similarity analysis with transformer 
+6.	Next word prediction with BERT model 
+7.	NER with {spacy} and negation detection 
+8.	(optional) useful Regular Expression snippets
+
+The goal is to provide the audience with small nuggets that will come in handy for their future NLP problems. 
+I may change the order depending on the flow. 
